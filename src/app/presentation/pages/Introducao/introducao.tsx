@@ -6,7 +6,7 @@ import { GenericButton } from '../../components';
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 import { CustomCarousel } from '../../components/Carousel/CustomCarousel';
 import slide1 from '../../../../assets/carousel1.png';
-import slide2 from '../../../../assets/carousel2.jpg';
+import slide2 from '../../../../assets/carousel2.png';
 import ReactPlayer from 'react-player';
 import { GenericSubHeading } from '../../components/SubHeading';
 import { audios } from '../../../data/audios';
